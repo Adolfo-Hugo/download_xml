@@ -14,7 +14,7 @@ O script abrirá o navegador Google Chrome e começará a processar as chaves, r
 Notas
 Segurança: O script desativa as mensagens de segurança do Chrome para facilitar o download automático. Use em um ambiente seguro.
 Velocidade: O script utiliza delays como time.sleep para garantir que todos os elementos da página estejam carregados antes de interagir. Esses delays podem ser ajustados para acelerar o processo em conexões mais rápidas.
-Contribuições
+
 
 
 
